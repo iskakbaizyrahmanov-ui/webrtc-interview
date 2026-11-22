@@ -1,0 +1,6 @@
+OneRoom — WebRTC 1-to-1 interview
+Signaling: wss://inai-col3.fishrungames.com/signaling/
+Run on Windows: npm.cmd install && npm.cmd run dev
+Build: npm.cmd run build
+GitHub repo suggestion: webrtc-interview
+After push: Settings > Pages > Source = GitHub Actions
